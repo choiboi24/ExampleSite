@@ -6,4 +6,4 @@ This page is dedicated to showing many different wonders of nature that I come a
 
 I was fortunate enough to visit Yosemite National Park, and I do not regret going there at all. The massive granite slabs known as mountains were jaw dropping, and the various bodies of crystal clear water were gorgeous. When I visited, however, the air was not the cleanest due to the California wildfires. Below is a picture that I took of one of the smaller mountains.
 
-![Yosemite National Park](https://drive.google.com/file/d/19miBdcZv7AttgmIUCdxJlDGMatsr2QYE/view?usp=sharing)
+![Yosemite National Park](/assets/images/Yosemite.jpg)
