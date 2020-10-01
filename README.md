@@ -12,4 +12,4 @@ I was fortunate enough to visit Yosemite National Park, and I do not regret goin
 
 When I traveled with my cross country team to Oregon, we visited Multnomah Falls while we were there. The hike did not seem too bad at first, but it caught up to us since we were carrying our backpacks with us. Once we got to the top however, there was a pretty view of all the lush greenery around us. I'm glad that we went and visited this waterfall during our trip.
 
-![Multnomah Falls](Multnomah-Falls.jpg "Multnomah Falls")
+![Multnomah Falls](multnomahfalls.jpg "Multnomah Falls")
